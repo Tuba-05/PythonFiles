@@ -1,0 +1,11 @@
+t='COMPUTER'+'S'
+print(t)
+print(t[1:])
+print(t[2:])
+print(t[3:])
+print(t[4:])
+print(t[5:])
+print(t[6:])
+print(t[7:])
+print(t[8:])
+print(t[6:])

@@ -1,0 +1,5 @@
+Name=Score
+fin=0
+doi=7
+guy=0
+
